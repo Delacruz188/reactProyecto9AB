@@ -32,6 +32,8 @@ SCRUM
 React
 Node
 MySQL o MongoDB
+Git
+Github o Gitlab o cualquier plataforma
 
 Parcial 1
 Diseño y creacion de la base de datos
