@@ -1,0 +1,68 @@
+Link Jira: https://www.atlassian.com/es/software/jira/pricing?&aceid=&adposition=&adgroup=143040501725&campaign=19324540052&creative=642190128605&device=c&keyword=jira%20pricing&matchtype=e&network=g&placement=&ds_kids=p74608943791&ds_e=GOOGLE&ds_eid=700000001558501&ds_e1=GOOGLE&gad_source=1&gclid=CjwKCAjwr7ayBhAPEiwA6EIGxNDdk90r3q4zFokau_JOGjW-0Pf4-HJJ_bPlIWRRCRpI8L6y01yrWhoCG4cQAvD_BwE&gclsrc=aw.ds
+
+
+Crear proyecto de react: https://vitejs.dev/guide/
+NextUI: https://nextui.org/docs/frameworks/vite
+DaisyUI: https://daisyui.com/docs/install/
+Tailwind: https://tailwindcss.com/docs/guides/vite
+
+
+Diseños de Figma editables: https://www.figma.com/community/search?resource_type=files&sort_by=relevancy&query=system+ui+web&editor_type=all&price=all&creators=all
+
+
+Diseño pagina 1: https://www.figma.com/design/bogfFEFiv9IXL95IrwmyAe/Dashboard-Tennis-(Community)?node-id=1-4&t=8SZzMCHoQiNIvI3f-0
+Diseño pagina 2: https://www.figma.com/design/qqpv1DbR68tw97fUu25Spg/Admin-Panel-Dashboard-(Community)?node-id=11-3&t=movYBcw0EyY10QtZ-0
+Diseño pagina 3: https://www.figma.com/design/Y5wIDo6McFjzxJ4wlwVxW8/The-Design-System-%7C-Part-1-%7C-Web-%7C-UI-Kit-(Community)?node-id=85-14&t=JbF010GbS6K8cULX-0
+Diseño pagina 4: https://www.figma.com/design/AaEMj6hgne3KmAAWeY2K1y/E-Commerce-Website-UI-Kit---Design-System-(Community)?node-id=45-1132&t=37qUFeBiaAKg8dVJ-0
+
+
+Puntos importantes React: 
+
+JSX
+Componentes
+Comunicación de componentes
+Props
+
+
+INDICACIONES PRIMERA CLASE 
+
+Que es lo que vamos a usar
+Jira
+SCRUM
+React
+Node
+MySQL o MongoDB
+
+Parcial 1
+Diseño y creacion de la base de datos
+Diseño de la UI
+
+Parcial 2
+Creacion del backend
+
+Parcial 3 
+Creacion del front
+
+Requisitos para el proyecto
+
+Login y registro de usuarios
+CRUD de productos
+Compras realizadas por un usuario
+Recibos de compra
+Catalogo de productos
+Landing
+
+Parcial 1
+Sprint 1 Del 13 de mayo al 17 de mayo
+Sprint 2 del 20 de mayo al 24 de mayo
+Sprint 3 del 27 de mayo al 31 de mayo
+
+Parcial 2
+Sprint 1 del 3 de junio al 7
+Sprint 2 del 10 junio al 14 de junio
+Sprint 3 del 17 de junio al 21 de junio
+
+Parcial 3
+Sprint 1 del 24 de junio al 28 de junio
+Sprint 2 del 1 de julio al 5 de julio
+Sprint 3 del 8 de julio al 12 de julio
